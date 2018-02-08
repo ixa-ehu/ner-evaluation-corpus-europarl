@@ -1,4 +1,4 @@
-# Europarl Evaluation Corpus for Named Entity Recognition
+# Evaluation Corpus for Named Entity Recognition using Europarl
 
 This repository contains a gold-standard test set created from the [Europarl corpus](http://www.statmt.org/europarl/). The test set consists of 799 sentences manually annotated using four entity types and following the [CoNLL 2002 and 2003 guidelines](https://www.clips.uantwerpen.be/conll2003/ner/) for 4 languages: English, German, Italian and Spanish.
 
