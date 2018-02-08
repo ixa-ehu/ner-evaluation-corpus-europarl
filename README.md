@@ -18,7 +18,4 @@ This evaluation corpus was manually annotated by **Nora Aranberri**.
 One file per language in CoNLL 2002 format:
 
 ## License
-The Evaluation Corpus is licensed by a cc-by-sa-4.0 license:
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-Manually annotated evaluation corpus from Europarl
+We follow he original Europarl terms of use which states : "We are not aware of any copyright restrictions of the material." For more details, please visit [http://www.statmt.org/europarl/](http://www.statmt.org/europarl/)
