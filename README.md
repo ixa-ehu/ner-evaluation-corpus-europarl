@@ -17,5 +17,10 @@ This evaluation corpus was manually annotated by **Nora Aranberri**.
 ## Contents
 One file per language in CoNLL 2002 format:
 
++ de-europarl.test.conll02
++ en-europarl.test.conll02
++ es-europarl.test.conll02
++ it-europarl.test.conll02
+
 ## License
-We follow he original Europarl terms of use which states : "We are not aware of any copyright restrictions of the material." For more details, please visit [http://www.statmt.org/europarl/](http://www.statmt.org/europarl/)
+We follow the original Europarl terms of use which states : "We are not aware of any copyright restrictions of the material." For more details, please visit [http://www.statmt.org/europarl/](http://www.statmt.org/europarl/)
